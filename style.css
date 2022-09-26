@@ -6,8 +6,9 @@ h1{
 
 }
 p{
-    color :antiquewhite
-#at
+    color :antiquewhite;
+    text-align: justify;
+
 }
 
 
